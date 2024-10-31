@@ -1,0 +1,3211 @@
+fileFormatVersion: 2
+guid: 9080186b8eb6d504d81501664ec9466c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6781109173080613582
+    second: SNES - Metal Warriors USA - Ballistic_alpha_0
+  - first:
+      213: 5251843465989897816
+    second: SNES - Metal Warriors USA - Ballistic_alpha_1
+  - first:
+      213: -1516165058915694362
+    second: SNES - Metal Warriors USA - Ballistic_alpha_2
+  - first:
+      213: 2777896244207318417
+    second: SNES - Metal Warriors USA - Ballistic_alpha_3
+  - first:
+      213: -5618795958961007924
+    second: SNES - Metal Warriors USA - Ballistic_alpha_4
+  - first:
+      213: 4083712345459641545
+    second: SNES - Metal Warriors USA - Ballistic_alpha_5
+  - first:
+      213: -5206632845513616581
+    second: SNES - Metal Warriors USA - Ballistic_alpha_6
+  - first:
+      213: -5348449917126652526
+    second: SNES - Metal Warriors USA - Ballistic_alpha_7
+  - first:
+      213: -882712357626198545
+    second: SNES - Metal Warriors USA - Ballistic_alpha_8
+  - first:
+      213: -5775126063853386240
+    second: SNES - Metal Warriors USA - Ballistic_alpha_9
+  - first:
+      213: 8226584803844410754
+    second: SNES - Metal Warriors USA - Ballistic_alpha_10
+  - first:
+      213: 8372952962118454344
+    second: SNES - Metal Warriors USA - Ballistic_alpha_11
+  - first:
+      213: -7361724324593796242
+    second: SNES - Metal Warriors USA - Ballistic_alpha_12
+  - first:
+      213: -3800165230788052690
+    second: SNES - Metal Warriors USA - Ballistic_alpha_13
+  - first:
+      213: -4064199718303836715
+    second: SNES - Metal Warriors USA - Ballistic_alpha_14
+  - first:
+      213: 4634838530382314531
+    second: SNES - Metal Warriors USA - Ballistic_alpha_15
+  - first:
+      213: -8506633726354141451
+    second: SNES - Metal Warriors USA - Ballistic_alpha_16
+  - first:
+      213: 1628444703022662514
+    second: SNES - Metal Warriors USA - Ballistic_alpha_17
+  - first:
+      213: -6844137987813254507
+    second: SNES - Metal Warriors USA - Ballistic_alpha_18
+  - first:
+      213: -8025079549925475834
+    second: SNES - Metal Warriors USA - Ballistic_alpha_19
+  - first:
+      213: 8146862250568907515
+    second: SNES - Metal Warriors USA - Ballistic_alpha_20
+  - first:
+      213: -8094980090657244684
+    second: SNES - Metal Warriors USA - Ballistic_alpha_21
+  - first:
+      213: -2884930429974872176
+    second: SNES - Metal Warriors USA - Ballistic_alpha_22
+  - first:
+      213: -4266598067410200187
+    second: SNES - Metal Warriors USA - Ballistic_alpha_23
+  - first:
+      213: 6209809832975069012
+    second: SNES - Metal Warriors USA - Ballistic_alpha_24
+  - first:
+      213: -3317991843709003313
+    second: SNES - Metal Warriors USA - Ballistic_alpha_25
+  - first:
+      213: -225525313809826133
+    second: SNES - Metal Warriors USA - Ballistic_alpha_26
+  - first:
+      213: 8064796752210913243
+    second: SNES - Metal Warriors USA - Ballistic_alpha_27
+  - first:
+      213: 635862087175520589
+    second: SNES - Metal Warriors USA - Ballistic_alpha_28
+  - first:
+      213: -5071767922108764704
+    second: SNES - Metal Warriors USA - Ballistic_alpha_29
+  - first:
+      213: -6339460394649723892
+    second: SNES - Metal Warriors USA - Ballistic_alpha_30
+  - first:
+      213: -7058057447471365101
+    second: SNES - Metal Warriors USA - Ballistic_alpha_31
+  - first:
+      213: -7064188282894696924
+    second: SNES - Metal Warriors USA - Ballistic_alpha_32
+  - first:
+      213: 1615515861281250724
+    second: SNES - Metal Warriors USA - Ballistic_alpha_33
+  - first:
+      213: 3585136455817617144
+    second: SNES - Metal Warriors USA - Ballistic_alpha_34
+  - first:
+      213: -4007047754366803053
+    second: SNES - Metal Warriors USA - Ballistic_alpha_35
+  - first:
+      213: -3336265258053329651
+    second: SNES - Metal Warriors USA - Ballistic_alpha_36
+  - first:
+      213: 7798667285509972116
+    second: SNES - Metal Warriors USA - Ballistic_alpha_37
+  - first:
+      213: 147976225559727499
+    second: SNES - Metal Warriors USA - Ballistic_alpha_38
+  - first:
+      213: -3268649151129807295
+    second: SNES - Metal Warriors USA - Ballistic_alpha_39
+  - first:
+      213: -4279208935300049293
+    second: SNES - Metal Warriors USA - Ballistic_alpha_40
+  - first:
+      213: 6187112758380291685
+    second: SNES - Metal Warriors USA - Ballistic_alpha_41
+  - first:
+      213: -8163705247154266453
+    second: SNES - Metal Warriors USA - Ballistic_alpha_42
+  - first:
+      213: -5959953761571466363
+    second: SNES - Metal Warriors USA - Ballistic_alpha_43
+  - first:
+      213: 384853340991430674
+    second: SNES - Metal Warriors USA - Ballistic_alpha_44
+  - first:
+      213: -4525466759689793454
+    second: SNES - Metal Warriors USA - Ballistic_alpha_45
+  - first:
+      213: 8271581190871311405
+    second: SNES - Metal Warriors USA - Ballistic_alpha_46
+  - first:
+      213: 5740451188036020450
+    second: SNES - Metal Warriors USA - Ballistic_alpha_47
+  - first:
+      213: 4961652353216634218
+    second: SNES - Metal Warriors USA - Ballistic_alpha_48
+  - first:
+      213: -6711486031266169467
+    second: SNES - Metal Warriors USA - Ballistic_alpha_49
+  - first:
+      213: -7212552734697909561
+    second: SNES - Metal Warriors USA - Ballistic_alpha_50
+  - first:
+      213: 5113152850134929615
+    second: SNES - Metal Warriors USA - Ballistic_alpha_51
+  - first:
+      213: -8337766930956976950
+    second: SNES - Metal Warriors USA - Ballistic_alpha_52
+  - first:
+      213: -4339476259658688362
+    second: SNES - Metal Warriors USA - Ballistic_alpha_53
+  - first:
+      213: 298721813336128777
+    second: SNES - Metal Warriors USA - Ballistic_alpha_54
+  - first:
+      213: 7342666752361519652
+    second: SNES - Metal Warriors USA - Ballistic_alpha_55
+  - first:
+      213: -3398870463474503927
+    second: SNES - Metal Warriors USA - Ballistic_alpha_56
+  - first:
+      213: 8834060078220545014
+    second: SNES - Metal Warriors USA - Ballistic_alpha_57
+  - first:
+      213: -3332687837351682273
+    second: SNES - Metal Warriors USA - Ballistic_alpha_58
+  - first:
+      213: -758021903843163946
+    second: SNES - Metal Warriors USA - Ballistic_alpha_59
+  - first:
+      213: -5048679787458544710
+    second: SNES - Metal Warriors USA - Ballistic_alpha_60
+  - first:
+      213: 3911953861465365890
+    second: SNES - Metal Warriors USA - Ballistic_alpha_61
+  - first:
+      213: -4717857204070705867
+    second: SNES - Metal Warriors USA - Ballistic_alpha_62
+  - first:
+      213: -619123464057268192
+    second: SNES - Metal Warriors USA - Ballistic_alpha_63
+  - first:
+      213: 3492314547568286576
+    second: SNES - Metal Warriors USA - Ballistic_alpha_64
+  - first:
+      213: -9050091780798687949
+    second: SNES - Metal Warriors USA - Ballistic_alpha_65
+  - first:
+      213: -7905551555767540044
+    second: SNES - Metal Warriors USA - Ballistic_alpha_66
+  - first:
+      213: -8207767635441856952
+    second: SNES - Metal Warriors USA - Ballistic_alpha_67
+  - first:
+      213: -2152984704760496745
+    second: SNES - Metal Warriors USA - Ballistic_alpha_68
+  - first:
+      213: 2537224630369944378
+    second: SNES - Metal Warriors USA - Ballistic_alpha_69
+  - first:
+      213: -5964703466029784055
+    second: SNES - Metal Warriors USA - Ballistic_alpha_70
+  - first:
+      213: -8228283815137739640
+    second: SNES - Metal Warriors USA - Ballistic_alpha_71
+  - first:
+      213: 1101017865234570428
+    second: SNES - Metal Warriors USA - Ballistic_alpha_72
+  - first:
+      213: 4072769630276939775
+    second: SNES - Metal Warriors USA - Ballistic_alpha_73
+  - first:
+      213: -7739332775709855427
+    second: SNES - Metal Warriors USA - Ballistic_alpha_74
+  - first:
+      213: 7187487523454963272
+    second: SNES - Metal Warriors USA - Ballistic_alpha_75
+  - first:
+      213: 6321992901308258420
+    second: SNES - Metal Warriors USA - Ballistic_alpha_76
+  - first:
+      213: 215478957849219350
+    second: SNES - Metal Warriors USA - Ballistic_alpha_77
+  - first:
+      213: -1525099589510734819
+    second: SNES - Metal Warriors USA - Ballistic_alpha_78
+  - first:
+      213: 2840641801750064338
+    second: SNES - Metal Warriors USA - Ballistic_alpha_79
+  - first:
+      213: 5757839308303704367
+    second: SNES - Metal Warriors USA - Ballistic_alpha_80
+  - first:
+      213: -72047043823213169
+    second: SNES - Metal Warriors USA - Ballistic_alpha_81
+  - first:
+      213: -8019051923083538722
+    second: SNES - Metal Warriors USA - Ballistic_alpha_82
+  - first:
+      213: -6562450920989241558
+    second: SNES - Metal Warriors USA - Ballistic_alpha_83
+  - first:
+      213: 5790517872750149571
+    second: SNES - Metal Warriors USA - Ballistic_alpha_84
+  - first:
+      213: 4134646323028882850
+    second: SNES - Metal Warriors USA - Ballistic_alpha_85
+  - first:
+      213: -6481786562903040764
+    second: SNES - Metal Warriors USA - Ballistic_alpha_86
+  - first:
+      213: 1192271723483471699
+    second: SNES - Metal Warriors USA - Ballistic_alpha_87
+  - first:
+      213: 3230027718662962427
+    second: SNES - Metal Warriors USA - Ballistic_alpha_88
+  - first:
+      213: 1974324950441296596
+    second: SNES - Metal Warriors USA - Ballistic_alpha_89
+  - first:
+      213: 2935824410903736154
+    second: SNES - Metal Warriors USA - Ballistic_alpha_90
+  - first:
+      213: -2323418524058373801
+    second: SNES - Metal Warriors USA - Ballistic_alpha_91
+  - first:
+      213: 79458376264288407
+    second: SNES - Metal Warriors USA - Ballistic_alpha_92
+  - first:
+      213: -3436881255429710426
+    second: SNES - Metal Warriors USA - Ballistic_alpha_93
+  - first:
+      213: 6346904285301153432
+    second: SNES - Metal Warriors USA - Ballistic_alpha_94
+  - first:
+      213: -7831271208046979211
+    second: SNES - Metal Warriors USA - Ballistic_alpha_95
+  - first:
+      213: -1474462991253243136
+    second: SNES - Metal Warriors USA - Ballistic_alpha_96
+  - first:
+      213: -6950202615823459757
+    second: SNES - Metal Warriors USA - Ballistic_alpha_97
+  - first:
+      213: -7080935755684911981
+    second: SNES - Metal Warriors USA - Ballistic_alpha_98
+  - first:
+      213: 6591551315034739231
+    second: SNES - Metal Warriors USA - Ballistic_alpha_99
+  - first:
+      213: 8719799117129704127
+    second: SNES - Metal Warriors USA - Ballistic_alpha_100
+  - first:
+      213: -2566182064894226458
+    second: SNES - Metal Warriors USA - Ballistic_alpha_101
+  - first:
+      213: 1744684733013708353
+    second: SNES - Metal Warriors USA - Ballistic_alpha_102
+  - first:
+      213: 150523120415426968
+    second: SNES - Metal Warriors USA - Ballistic_alpha_103
+  - first:
+      213: 5262038893786153902
+    second: SNES - Metal Warriors USA - Ballistic_alpha_104
+  - first:
+      213: 2053412312346440594
+    second: SNES - Metal Warriors USA - Ballistic_alpha_105
+  - first:
+      213: -2845405605054716507
+    second: SNES - Metal Warriors USA - Ballistic_alpha_106
+  - first:
+      213: -3976749161382453678
+    second: SNES - Metal Warriors USA - Ballistic_alpha_107
+  - first:
+      213: 760632638436444955
+    second: SNES - Metal Warriors USA - Ballistic_alpha_108
+  - first:
+      213: 7038597071459968922
+    second: SNES - Metal Warriors USA - Ballistic_alpha_109
+  - first:
+      213: -6488358339025245706
+    second: SNES - Metal Warriors USA - Ballistic_alpha_110
+  - first:
+      213: -3436560573273145994
+    second: SNES - Metal Warriors USA - Ballistic_alpha_111
+  - first:
+      213: 8512179270978456741
+    second: SNES - Metal Warriors USA - Ballistic_alpha_112
+  - first:
+      213: 2223316901993933621
+    second: SNES - Metal Warriors USA - Ballistic_alpha_113
+  - first:
+      213: -3389434879032683611
+    second: SNES - Metal Warriors USA - Ballistic_alpha_114
+  - first:
+      213: 4303017719456149619
+    second: SNES - Metal Warriors USA - Ballistic_alpha_115
+  - first:
+      213: -4958078121311494634
+    second: SNES - Metal Warriors USA - Ballistic_alpha_116
+  - first:
+      213: -2178688394617109330
+    second: SNES - Metal Warriors USA - Ballistic_alpha_117
+  - first:
+      213: 6662959738872210226
+    second: SNES - Metal Warriors USA - Ballistic_alpha_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 599
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24b9103bee38dc49b98e5ab4669e876
+      internalID: 323447246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 599
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c03e716a74b2408290bb2b599efb2
+      internalID: -168383327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 599
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923ca70eef2200c4596b4d8e2a29047c
+      internalID: 1868100240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 455
+        width: 220
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2449c5d784a084b83b428bc9439e06
+      internalID: 1191555837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 398
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c6e5336b38da041b242de822e9db03
+      internalID: -1351868956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 398
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23f5b088e945e845a08c520e1b74c67
+      internalID: -712009031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 398
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c983b4e2cb74b8468ffda7b61551c31
+      internalID: 1404246960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 398
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03145284e427ff4c812a83d869c9a4d
+      internalID: -1588336302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 398
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c397f3ae657074990c203764b9b80c
+      internalID: 2025864618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 398
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c8a7cd8c89e648acd54d6753c1a75
+      internalID: 350779314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 398
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb9c656e3afdd4b96c5b6f514d328d
+      internalID: -538853061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 422
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b21d62a9673164f80d983f171fc7ad
+      internalID: 1563272776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 421
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29eb758cd60309408e68b27b7e79204
+      internalID: -1056396831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 421
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9d3e9f2ee58574cb9ca4b3c7116a6f
+      internalID: -2067622242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 418
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983347f1381b6914b8a1517e5b28e3c5
+      internalID: 266309188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 407
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015a93317be955f4bb249eec636be3ef
+      internalID: -281571786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 407
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c664737c136f64aaa62427a47770d2
+      internalID: -109208218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3193cda7257024b44818ffe463695399
+      internalID: 502805527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 407
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90eb2e20b341884e88ea9863461ff31
+      internalID: -1967134660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e1484525d04b4ca0ffc4d297b19ea
+      internalID: 517547673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 404
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f73eb82cf766f43b12f5905c3f25f0
+      internalID: 1826144066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 404
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33c7439a2c11ee4ab24fb3bd0909c6f
+      internalID: -1270605597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 407
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1990b7802b2ba6c45adb0e7c2c886713
+      internalID: -882415348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb1ba20e2a1e5d4b85dbfa7ee483687
+      internalID: -357095662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_24
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 407
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f371555d0325241ad42df4615c93f4
+      internalID: -1204455986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f40ed03d625966478242fdc80df5721
+      internalID: 767784867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 350
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fbd3950c9691d4eb7a1d55661fec28
+      internalID: 1811326183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 354
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67632ef794d9ed14dac7ee5cb87fc931
+      internalID: 944491941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 353
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99b55942155f344896ce7c7f7cda6e
+      internalID: 1200291657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 352
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b2882e7a84094bbf9c979c2219c40
+      internalID: -1372862488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab762fda7d218f2439a27f6ca0c51b6e
+      internalID: 1861741248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 352
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60db0546a76c17f45ae3f55179edf3f7
+      internalID: -949236454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 352
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3613f41a0f7cf41449752b86648dd3ea
+      internalID: -807234987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 298
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e2248adbaeb774bbdede988ab97da0
+      internalID: -489786505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 298
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a795c1038d69e846ba32fa1671c7bcf
+      internalID: 289344672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 298
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08ee80ebe9409943a1053e75766e79d
+      internalID: 1246732752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 298
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b190ab686a635942bc10546c216b1a8
+      internalID: 699670369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_37
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 329
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b417317b2cb4c4991c733cc834726a
+      internalID: 1260766864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 329
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c734280ec223b2e41a4ec240d3247ed9
+      internalID: 294810608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_39
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281cc2d5e98d9ab4cbffcaa155f1a158
+      internalID: -932059459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_40
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 329
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccbd47208164b946824ce9c4a7dc041
+      internalID: -1274616917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_41
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 326
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4453b8435c81a7d489ef977a85e7dfe3
+      internalID: -630328455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d694adb2d5bd0ef48a339f1157ca9ed9
+      internalID: 541372809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 329
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdd35c410495714183582f59195b4f7
+      internalID: -843534956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_44
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 329
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec6eeef4220cb45ab3ec12b44a6a0b
+      internalID: 1538752929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_45
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 329
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82554b2b6eb3c754eb7c0a1ce5102d8d
+      internalID: -547967018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 329
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a7c6336a7d4934bab76f5ba4df3b9f
+      internalID: 635033245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_47
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 329
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f41ee398633734a9908741f8e30a07
+      internalID: -1120890718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_48
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 329
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bab46f2cf4c6b4298cd0ee96a68c06
+      internalID: 1969396494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_49
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 329
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f602c78cdb9c2eb4fa904ebaf636bc5f
+      internalID: -2004952454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 242
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e8b6c42ccac31458cf57bc67151037
+      internalID: 1984930005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 242
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94f6114f4a4ea64c9d5d58ed85f8e9e
+      internalID: -8659587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 242
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a128c8241f93ce439c56486c5911a2e
+      internalID: -1134674191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 242
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672f49a9d053ac04ca60a712a98c84c4
+      internalID: -1011357403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_54
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 273
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3521922e1bd11348ae40e4834f20cdd
+      internalID: -1688035559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_55
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 273
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f8c219ab81b104ebc5349c4ae4cbd3
+      internalID: -1133300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_56
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e8add3194e384fb7f9cbaf29d1800
+      internalID: -757112655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_57
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 273
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf007291d6ef5884480a6a1a1b5b724c
+      internalID: 1334249764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_58
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 270
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec555435892814a8fce140a1d27027
+      internalID: 713349360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7b6483c97d5cf439f489de6c2c1bff
+      internalID: -1080938481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_60
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 273
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2e68cc72ec52f4fb891b1bea518b63
+      internalID: 845554934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 273
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211392249ccddd64491cc4fd8c171e63
+      internalID: -201537537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_62
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 273
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203096a9d79488a4e96f7345831fb488
+      internalID: -503990183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_63
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f3138fba9db9a489414107f4ff7cfd
+      internalID: -1139850913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_64
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 273
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac2a46233fcafd4bbcaa969b713f4cc
+      internalID: -432605471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 273
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d90b21cd5cb4e439b98544526ff534
+      internalID: -804918232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_66
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 273
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bd56ea66c542647ae2ec5245401533
+      internalID: 849470739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 182
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651196be10eaa03439fcb24856a6fa1a
+      internalID: -1205197915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 178
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24985468c7085544cb6e613c25c9bec5
+      internalID: -286511496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 178
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9842ea001c2badc43a571ba57edb05e0
+      internalID: 680034492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_70
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 178
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb8d4fbc68e067458987f8e524bc22b
+      internalID: 985432278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 179
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6927a8d3a49d454f9845f84b7ee11c2
+      internalID: -1942232932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_72
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 180
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d394f6431b994e94d9330633ddb819de
+      internalID: -975358516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_73
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 181
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a168a11b965908d4db1c10d569f3d58c
+      internalID: -636531636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 181
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ce984f6a63c641bbd456718c19516
+      internalID: 1408803136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_75
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 203
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b47b9da7f861a940b2d60b09732479f
+      internalID: -1847240042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_76
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 203
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd140885e95a8042ac345329636177f
+      internalID: 2000616912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_77
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 203
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d755ebfa31cda429af8ee3ee70e849
+      internalID: -140367319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_78
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 132
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26a87725e1234c4da0d1d0eacea9544
+      internalID: -1745724723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 132
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fe12bd40f284f47957646f83a10875
+      internalID: -1677430729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_80
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 130
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4072e5a796624489c393f8236c565c
+      internalID: -657053420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_81
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 154
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3353e4b3e53c14b8385e53c84f1022
+      internalID: 371486820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_82
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 154
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9821a909932af4da6ef49ff32115e5
+      internalID: -579500367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 154
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87b4a72668e0bc42b07f7e102fc95f4
+      internalID: -1195970994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_84
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 154
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1befd4b76580184ca3c6c9a81b0252d
+      internalID: 148391125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_85
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 130
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05800777305cd52429e3c231baf4be4e
+      internalID: 465176714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_86
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 156
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aba420fdf26424fbdca8ae447ca7fc
+      internalID: -5555830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_87
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 156
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0520fcf7504c57a49b969490879b93f2
+      internalID: 2096118896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_88
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 153
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb19ddeff8794a4cbaeaa3bc4f5a57b
+      internalID: -1069612084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_89
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 153
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1b839b56e96fa43a663aa96fdb3db3
+      internalID: -1825354870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_90
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe27c6d23a6b1f4ea918cd54178e869
+      internalID: 1327053890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_91
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 156
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebfa4c7c3fbb504fa2460136a4b9633
+      internalID: -467404543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_92
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 156
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e226488d89279ce438bb928af8392f1e
+      internalID: -298084482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_93
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 156
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe3c77926b2594e850cba690c78c52
+      internalID: -1966252500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_94
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4570f66e9ba944684ff71e97567051
+      internalID: -159705234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_95
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f39e137502876e4da834a8d09e0a33e
+      internalID: 1320070949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_96
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3b1d99b56688e4e84cf69d29024054
+      internalID: 1139917754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_97
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 108
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a240c911bf869664c86f11d48c6dce3b
+      internalID: 939038269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_98
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cae659a3538b143930836055613553
+      internalID: 1410916176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_99
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 108
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68e8c7f71efe7b4dbfe546edb27d14e
+      internalID: 1890515607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_100
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4361c51b1eccd40b7ba549ea41a694
+      internalID: 567930680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_101
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 105
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c297ead4d2c8d844189a7cbb03755f1b
+      internalID: 1758816284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_102
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954a786ee2230d24bae3482fee513961
+      internalID: -836234278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_103
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 108
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3bacfa84bafe741b6ee06d826bb592
+      internalID: 2022593480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_104
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 108
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f57d3a51e2b9b488df3a74f924a238
+      internalID: -1286435860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_105
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 108
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afd3b93938f4774eab1fb49a7ce1994
+      internalID: 2028316688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_106
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 108
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29f8eadbc0b309428a8ee4c751b88a8
+      internalID: -247809246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_107
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 108
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68a7b6d8c79a404bbed9ad27372fd52
+      internalID: -1127549197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_108
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07119f7da90858c49b553703353bd740
+      internalID: -561332980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 80
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d06ca59683b7940b9599cc394eb49a
+      internalID: -1177813329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b0bcfa1b6296478b9f362e8822b66
+      internalID: -105726510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c08191984ab044eb488178f6db0afc
+      internalID: -1163057141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_112
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 60
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd276ebe36892834e806d8ba5c3fd695
+      internalID: 396804137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_113
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 24
+        width: 80
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5c710ca371ebb42b3023d1b4a78c1b
+      internalID: -838024070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 38
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2313b7069c7fc74490829afb8dfa781
+      internalID: 1841583311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_115
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 38
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66dc0e5cda78054ebb4075724461e83
+      internalID: -1275072188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_116
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778eba3811e01b408eb1c8309eeacd0
+      internalID: 1893843321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_117
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 38
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f7aef96d91f094589309a1c6a27a33
+      internalID: -1351595582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Metal Warriors USA - Ballistic_alpha_118
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 38
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7f9be7a443d746abc56f11a0eda10
+      internalID: -51741133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9f0776aeb18be48448f8d0cc633d63ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SNES - Metal Warriors USA - Ballistic_alpha_0: 323447246
+      SNES - Metal Warriors USA - Ballistic_alpha_1: -168383327
+      SNES - Metal Warriors USA - Ballistic_alpha_10: -538853061
+      SNES - Metal Warriors USA - Ballistic_alpha_100: 567930680
+      SNES - Metal Warriors USA - Ballistic_alpha_101: 1758816284
+      SNES - Metal Warriors USA - Ballistic_alpha_102: -836234278
+      SNES - Metal Warriors USA - Ballistic_alpha_103: 2022593480
+      SNES - Metal Warriors USA - Ballistic_alpha_104: -1286435860
+      SNES - Metal Warriors USA - Ballistic_alpha_105: 2028316688
+      SNES - Metal Warriors USA - Ballistic_alpha_106: -247809246
+      SNES - Metal Warriors USA - Ballistic_alpha_107: -1127549197
+      SNES - Metal Warriors USA - Ballistic_alpha_108: -561332980
+      SNES - Metal Warriors USA - Ballistic_alpha_109: -1177813329
+      SNES - Metal Warriors USA - Ballistic_alpha_11: 1563272776
+      SNES - Metal Warriors USA - Ballistic_alpha_110: -105726510
+      SNES - Metal Warriors USA - Ballistic_alpha_111: -1163057141
+      SNES - Metal Warriors USA - Ballistic_alpha_112: 396804137
+      SNES - Metal Warriors USA - Ballistic_alpha_113: -838024070
+      SNES - Metal Warriors USA - Ballistic_alpha_114: 1841583311
+      SNES - Metal Warriors USA - Ballistic_alpha_115: -1275072188
+      SNES - Metal Warriors USA - Ballistic_alpha_116: 1893843321
+      SNES - Metal Warriors USA - Ballistic_alpha_117: -1351595582
+      SNES - Metal Warriors USA - Ballistic_alpha_118: -51741133
+      SNES - Metal Warriors USA - Ballistic_alpha_12: -1056396831
+      SNES - Metal Warriors USA - Ballistic_alpha_13: -2067622242
+      SNES - Metal Warriors USA - Ballistic_alpha_14: 266309188
+      SNES - Metal Warriors USA - Ballistic_alpha_15: -281571786
+      SNES - Metal Warriors USA - Ballistic_alpha_16: -109208218
+      SNES - Metal Warriors USA - Ballistic_alpha_17: 502805527
+      SNES - Metal Warriors USA - Ballistic_alpha_18: -1967134660
+      SNES - Metal Warriors USA - Ballistic_alpha_19: 517547673
+      SNES - Metal Warriors USA - Ballistic_alpha_2: 1868100240
+      SNES - Metal Warriors USA - Ballistic_alpha_20: 1826144066
+      SNES - Metal Warriors USA - Ballistic_alpha_21: -1270605597
+      SNES - Metal Warriors USA - Ballistic_alpha_22: -882415348
+      SNES - Metal Warriors USA - Ballistic_alpha_23: -357095662
+      SNES - Metal Warriors USA - Ballistic_alpha_24: -1204455986
+      SNES - Metal Warriors USA - Ballistic_alpha_25: 767784867
+      SNES - Metal Warriors USA - Ballistic_alpha_26: 1811326183
+      SNES - Metal Warriors USA - Ballistic_alpha_27: 944491941
+      SNES - Metal Warriors USA - Ballistic_alpha_28: 1200291657
+      SNES - Metal Warriors USA - Ballistic_alpha_29: -1372862488
+      SNES - Metal Warriors USA - Ballistic_alpha_3: 1191555837
+      SNES - Metal Warriors USA - Ballistic_alpha_30: 1861741248
+      SNES - Metal Warriors USA - Ballistic_alpha_31: -949236454
+      SNES - Metal Warriors USA - Ballistic_alpha_32: -807234987
+      SNES - Metal Warriors USA - Ballistic_alpha_33: -489786505
+      SNES - Metal Warriors USA - Ballistic_alpha_34: 289344672
+      SNES - Metal Warriors USA - Ballistic_alpha_35: 1246732752
+      SNES - Metal Warriors USA - Ballistic_alpha_36: 699670369
+      SNES - Metal Warriors USA - Ballistic_alpha_37: 1260766864
+      SNES - Metal Warriors USA - Ballistic_alpha_38: 294810608
+      SNES - Metal Warriors USA - Ballistic_alpha_39: -932059459
+      SNES - Metal Warriors USA - Ballistic_alpha_4: -1351868956
+      SNES - Metal Warriors USA - Ballistic_alpha_40: -1274616917
+      SNES - Metal Warriors USA - Ballistic_alpha_41: -630328455
+      SNES - Metal Warriors USA - Ballistic_alpha_42: 541372809
+      SNES - Metal Warriors USA - Ballistic_alpha_43: -843534956
+      SNES - Metal Warriors USA - Ballistic_alpha_44: 1538752929
+      SNES - Metal Warriors USA - Ballistic_alpha_45: -547967018
+      SNES - Metal Warriors USA - Ballistic_alpha_46: 635033245
+      SNES - Metal Warriors USA - Ballistic_alpha_47: -1120890718
+      SNES - Metal Warriors USA - Ballistic_alpha_48: 1969396494
+      SNES - Metal Warriors USA - Ballistic_alpha_49: -2004952454
+      SNES - Metal Warriors USA - Ballistic_alpha_5: -712009031
+      SNES - Metal Warriors USA - Ballistic_alpha_50: 1984930005
+      SNES - Metal Warriors USA - Ballistic_alpha_51: -8659587
+      SNES - Metal Warriors USA - Ballistic_alpha_52: -1134674191
+      SNES - Metal Warriors USA - Ballistic_alpha_53: -1011357403
+      SNES - Metal Warriors USA - Ballistic_alpha_54: -1688035559
+      SNES - Metal Warriors USA - Ballistic_alpha_55: -1133300020
+      SNES - Metal Warriors USA - Ballistic_alpha_56: -757112655
+      SNES - Metal Warriors USA - Ballistic_alpha_57: 1334249764
+      SNES - Metal Warriors USA - Ballistic_alpha_58: 713349360
+      SNES - Metal Warriors USA - Ballistic_alpha_59: -1080938481
+      SNES - Metal Warriors USA - Ballistic_alpha_6: 1404246960
+      SNES - Metal Warriors USA - Ballistic_alpha_60: 845554934
+      SNES - Metal Warriors USA - Ballistic_alpha_61: -201537537
+      SNES - Metal Warriors USA - Ballistic_alpha_62: -503990183
+      SNES - Metal Warriors USA - Ballistic_alpha_63: -1139850913
+      SNES - Metal Warriors USA - Ballistic_alpha_64: -432605471
+      SNES - Metal Warriors USA - Ballistic_alpha_65: -804918232
+      SNES - Metal Warriors USA - Ballistic_alpha_66: 849470739
+      SNES - Metal Warriors USA - Ballistic_alpha_67: -1205197915
+      SNES - Metal Warriors USA - Ballistic_alpha_68: -286511496
+      SNES - Metal Warriors USA - Ballistic_alpha_69: 680034492
+      SNES - Metal Warriors USA - Ballistic_alpha_7: -1588336302
+      SNES - Metal Warriors USA - Ballistic_alpha_70: 985432278
+      SNES - Metal Warriors USA - Ballistic_alpha_71: -1942232932
+      SNES - Metal Warriors USA - Ballistic_alpha_72: -975358516
+      SNES - Metal Warriors USA - Ballistic_alpha_73: -636531636
+      SNES - Metal Warriors USA - Ballistic_alpha_74: 1408803136
+      SNES - Metal Warriors USA - Ballistic_alpha_75: -1847240042
+      SNES - Metal Warriors USA - Ballistic_alpha_76: 2000616912
+      SNES - Metal Warriors USA - Ballistic_alpha_77: -140367319
+      SNES - Metal Warriors USA - Ballistic_alpha_78: -1745724723
+      SNES - Metal Warriors USA - Ballistic_alpha_79: -1677430729
+      SNES - Metal Warriors USA - Ballistic_alpha_8: 2025864618
+      SNES - Metal Warriors USA - Ballistic_alpha_80: -657053420
+      SNES - Metal Warriors USA - Ballistic_alpha_81: 371486820
+      SNES - Metal Warriors USA - Ballistic_alpha_82: -579500367
+      SNES - Metal Warriors USA - Ballistic_alpha_83: -1195970994
+      SNES - Metal Warriors USA - Ballistic_alpha_84: 148391125
+      SNES - Metal Warriors USA - Ballistic_alpha_85: 465176714
+      SNES - Metal Warriors USA - Ballistic_alpha_86: -5555830
+      SNES - Metal Warriors USA - Ballistic_alpha_87: 2096118896
+      SNES - Metal Warriors USA - Ballistic_alpha_88: -1069612084
+      SNES - Metal Warriors USA - Ballistic_alpha_89: -1825354870
+      SNES - Metal Warriors USA - Ballistic_alpha_9: 350779314
+      SNES - Metal Warriors USA - Ballistic_alpha_90: 1327053890
+      SNES - Metal Warriors USA - Ballistic_alpha_91: -467404543
+      SNES - Metal Warriors USA - Ballistic_alpha_92: -298084482
+      SNES - Metal Warriors USA - Ballistic_alpha_93: -1966252500
+      SNES - Metal Warriors USA - Ballistic_alpha_94: -159705234
+      SNES - Metal Warriors USA - Ballistic_alpha_95: 1320070949
+      SNES - Metal Warriors USA - Ballistic_alpha_96: 1139917754
+      SNES - Metal Warriors USA - Ballistic_alpha_97: 939038269
+      SNES - Metal Warriors USA - Ballistic_alpha_98: 1410916176
+      SNES - Metal Warriors USA - Ballistic_alpha_99: 1890515607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
